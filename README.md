@@ -10,9 +10,6 @@ While this site was originally inspired by a YouTube tutorial, I put my **own cr
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Framework:** Vite + React  
-- **UI Enhancements:** Tailwind CSS / Shadcn UI (if used)  
-- **Design Tools:** Figma, Canva
-
 ---
 
 ## 📁 What You'll Find
