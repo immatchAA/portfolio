@@ -62,10 +62,10 @@
     flex-direction: row;
     align-items: center;
     gap: 17px;
-    background: #19376d;
-    background-color: linear-gradient (90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
+    background: #3A0519;
+    background-color: linear-gradient (90deg, #EF88AD 0%, #3A0519 100%);
     border-radius: 10px;
-    padding: 24px;
+    padding: 24px;  
 }   
 
 .historyItemDetails h3 {

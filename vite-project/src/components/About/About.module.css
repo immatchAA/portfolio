@@ -17,7 +17,6 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
-
 }
 
 .content {
@@ -35,6 +34,7 @@
     display: flex;
     flex-direction: column;
     gap: 50px;
+
 }
 
 .aboutItem {
@@ -46,13 +46,15 @@
     padding: 25px;
     background-image: linear-gradient(
       90deg,
-      rgba(165, 215, 232, 0.42) 0%,
-      rgba(255, 255, 255, 0) 100%
+      #EF88AD 0%,
+      #3A0519 100%
     );
     background-size: 0 100%;
     background-repeat: no-repeat;
     transition: 0.4s;
+    gap: 30px;
   }
+  
   
   .aboutItem:hover {
     background-size: 100% 100%;

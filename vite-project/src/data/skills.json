@@ -17,6 +17,11 @@
     {
         "title": "Figma",
         "imageSrc": "figma.png"
+    },
+
+    {
+        "title": "Android Studio",
+        "imageSrc": "android.png"
     }
 
 ]

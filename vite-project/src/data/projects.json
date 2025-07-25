@@ -1,7 +1,7 @@
 [
     {
         "title": "Project U-Kay",
-        "imageSrc": "reactjs.png",
+        "imageSrc": "ukay.png",
         "description": "This is an E-Commerce Website to showcase CRUD functionalities and ReactJS Skills.",
         "skills": ["ReactJS", "Springboot", "MySQL"],
         "source": "https://github.com/kinatulinan/ProjectUkay"
