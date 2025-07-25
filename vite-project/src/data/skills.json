@@ -2,6 +2,21 @@
     {
         "title": "ReactJS",
         "imageSrc": "reactjs.png"
+    },
+
+    {
+        "title": "MySQL",
+        "imageSrc":"mysql.png"
+    },
+
+    {
+         "title": "Springboot",
+        "imageSrc":"springboot.png"
+    },
+
+    {
+        "title": "Figma",
+        "imageSrc": "figma.png"
     }
 
 ]

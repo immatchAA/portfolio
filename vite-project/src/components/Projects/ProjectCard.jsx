@@ -1,6 +1,8 @@
 import React from "react";
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
+
+
 export const ProjectCard = ({
     project : {title, imageSrc, description, skills, source }
     }) => {
@@ -17,7 +19,7 @@ export const ProjectCard = ({
                 })}
                 </ul>
                 <div className={styles.links}>
-                    <a href={source} className={styles.link}>Source</a>
+                    <a href={source} className={styles.link}>Source/Demo</a>
                 </div>
             </div>
     );

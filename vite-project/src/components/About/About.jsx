@@ -19,8 +19,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+               I bring ideas to life. From structuring pages with HTML styling them with CSS, and adding interactivity with JavaScript and ReactJS,
+               I love designing interfaces that are both beautiful and functional. I enjoy turning designs into fully working experiences on the web.
               </p>
             </div>
           </li>
@@ -29,8 +29,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+               I've been learning to build powerful backend systems using Spring boot and manage data with MYSQL, turning classroom concepts into a real working applications.
+               Every project is a chance to sharpen my skills, solve problems, and get one step close to becoming the developer I aim to be.
               </p>
             </div>
           </li>
@@ -39,8 +39,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                An IT Student with a growing passion for UI design, I use figma for protyping and visual compositions. I'm building a foundation
+                in design systems, layout structure, and user-friendly aesthetics.
               </p>
             </div>
           </li>

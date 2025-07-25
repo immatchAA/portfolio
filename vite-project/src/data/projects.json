@@ -2,9 +2,18 @@
     {
         "title": "Project U-Kay",
         "imageSrc": "reactjs.png",
-        "description": "This is an E-Commerce Website",
-        "skills": ["ReactJS", "Springboot", "MYSql"],
+        "description": "This is an E-Commerce Website to showcase CRUD functionalities and ReactJS Skills.",
+        "skills": ["ReactJS", "Springboot", "MySQL"],
         "source": "https://github.com/kinatulinan/ProjectUkay"
+    },
+
+    {
+        "title": "MindHaven",
+        "imageSrc": "mindhaven.png",
+        "description": "This project is a personalized mental wellness platform that combines mood tracking, journaling, and AI-powered support to help users manange their emotions and build healthier habits.",
+        "skills": ["Javascript", "HTML", "CSS", "AI"],
+        "source": "https://drive.google.com/file/d/1mMey5k_px6ceAL4XdoUIpxHTbI4V5Bks/view?usp=sharing"
     }
+
 
 ]

@@ -1,6 +1,11 @@
 [
     {
-        "description": "I've gained hands-on experience building interactive website using ReactJS. I'm familiar with component-based design, basic state management, API Integration. I'm continously improving my frontend skills.",
-        "role": "Frontend Experience"
+        "description": "Served as Team Captain and led the team to achieve 2nd Runner Up in the competition. We developed a digital mental health workflow solution built on the ServiceNow platform and features Gen-AI.",
+        "title": "EY-ServiceNow HackNow Competition (CIT-U Edition) - May 2025"
+    },
+
+    {
+        "description": "Completed Java fundamentals certification, demonstrating proficiency in basic syntax, control structures, and OOP principles. ",
+        "title": "CodeChum Java Programming Certification (CIT University) – May 2024"
     }
 ]

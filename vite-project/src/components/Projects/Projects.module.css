@@ -1,5 +1,12 @@
 @import "../../vars.css";
 
+.projectsWrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+
 .container {
     margin-top: 76px;
     color: var(--color-text);
